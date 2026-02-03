@@ -1,27 +1,26 @@
-# 🏛️ Design Approval System - Internship Project
+# 🏛️ Approval Workflow System - Internship Project
 
-Dokumentasi aktivitas dan progres pengembangan aplikasi **Design Approval** selama masa magang di **PT Kanefusa Indonesia** (Genba Innovation).
+Repositori ini adalah dokumentasi aktivitas dan progres pengembangan program **Approval Workflow** yang saya bangun selama menjalani kegiatan magang di **PT Kanefusa Indonesia** dengan posisi Genba Innovation (Divisi IT/Programmer).
 
 ## 📝 Overview
-Aplikasi **Design Approval** adalah platform berbasis web yang dirancang untuk mendigitalisasi alur persetujuan desain teknis. Sistem ini bertujuan untuk meningkatkan efisiensi operasional dengan menggantikan proses manual menjadi sistem terintegrasi yang memungkinkan kolaborasi antar departemen secara real-time.
+Aplikasi Approval Workflow adalah platform berbasis web yang dirancang untuk mendigitalisasi alur persetujuan dokumen pengajuan yang ada di lingkungan kerja. Sistem ini bertujuan untuk meningkatkan efisiensi operasional dengan menggantikan proses manual menjadi sistem terintegrasi yang memungkinkan kolaborasi antar departemen secara real-time.
 
 ---
 
 ## 🛠️ Tech Stack
 Proyek ini dibangun menggunakan kombinasi teknologi berikut:
-* **Language:** PHP 8.x
-* **Framework:** [Laravel](https://laravel.com/)
-* **Admin Panel:** [Filament](https://filamentphp.com/)
-* **Database:** Microsoft SQL Server
-* **Frontend:** Tailwind CSS & Blade Components
-
+* **Language:** PHP 7
+* **Framework:** 
+* **Admin Panel:** 
+* **Database:** SQL Server
+* **Frontend:** CSS 5 & Bootstrap
 ---
 
 ## ✨ Key Features
-* **Cross-Network File Upload:** Mekanisme pengunggahan file desain yang dapat diakses antar jaringan internal perusahaan.
-* **Multi-level Approval System:** Alur validasi bertingkat yang memastikan setiap desain diperiksa oleh pihak berwenang sebelum disetujui.
-* **Responsive UI/UX:** Antarmuka yang dioptimalkan untuk kemudahan navigasi bagi pengguna teknis maupun manajerial.
-* **Error-Handling Input:** Validasi khusus untuk menangani berbagai jenis input (termasuk penanganan simbol khusus pada form).
+* **Cross-Network File Upload:** Mekanisme pengunggahan file dokumen pengajuan yang dapat diakses melalui jaringan internal perusahaan.
+* **Multi-level Approval System:** Alur validasi bertingkat yang memastikan setiap dokumen diperiksa oleh approver atau pihak yang berwenang sebelum disetujui.
+* **Responsive UI/UX:** Antarmuka yang dioptimalkan untuk kemudahan navigasi bagi para pengguna.
+* **Error-Handling Input:** Validasi khusus untuk menangani berbagai jenis input untuk meminimalisir kesalahan input data oleh pengguna (human error).
 
 ---
 
@@ -45,10 +44,10 @@ Proyek ini dibangun menggunakan kombinasi teknologi berikut:
 ---
 
 ## 📊 Project Completion Roadmap
-Visualisasi estimasi progres pengerjaan menuju target penyelesaian aplikasi:
+Visualisasi progres pengerjaan menuju target penyelesaian progam:
 
 ```mermaid
 pie title Project Progress (%)
-    "Completed Tasks" : 65
-    "Under Development" : 15
-    "Remaining Tasks" : 20
+    "Completed Tasks" : 69
+    "Under Development" : 3
+    "Remaining Tasks" : 7
